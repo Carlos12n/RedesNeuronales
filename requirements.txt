@@ -5,5 +5,5 @@ matplotlib
 seaborn
 scikit-learn
 imbalanced-learn
-tensorflow
+tensorflow-cpu
 
